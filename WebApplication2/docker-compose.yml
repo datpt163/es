@@ -1,0 +1,11 @@
+﻿version: '3.8'
+
+services:
+  myapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"  # ánh xạ cổng 80 của container sang cổng 8080 của máy host
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
