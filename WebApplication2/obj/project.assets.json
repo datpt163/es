@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\PrnPe\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "D:\\WorkSpace\\PrnPe\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "D:\\WorkSpace\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\PrnPe\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "D:\\WorkSpace\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
